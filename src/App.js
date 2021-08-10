@@ -6,7 +6,7 @@ function App() {
   return (
     <React.Fragment>
 
-      <h1>Portfolio Project</h1>
+      <h1>Portfolio Project.</h1>
       <button className="btn btn-success"> Click Me</button>
 
     </React.Fragment>
